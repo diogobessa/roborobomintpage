@@ -1,3 +1,5 @@
-:global(div) {
-    background-color: red;
-  }
+.quantity-selector {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
