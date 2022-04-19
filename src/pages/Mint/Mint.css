@@ -25,9 +25,11 @@ body{
     position: relative;
     min-width: 400px;
     min-height: 240px;
-    display: grid;
-    align-items: center;
-    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+    padding: 14px;
+    box-sizing: border-box;
 }
 
 
@@ -40,11 +42,14 @@ body{
     left: 0;
     right: 0;
     bottom: 0;
-    box-shadow: inset 0 0 2000px rgba(255, 255, 255, .5);
+    box-shadow: inset 0 0 2000px rgba(255, 255, 255, 1);
     filter: blur(10px);
     margin: -20px;
-  }
+}
 
+.card p {
+    text-align: left;
+}
 
 footer{
     position: absolute;

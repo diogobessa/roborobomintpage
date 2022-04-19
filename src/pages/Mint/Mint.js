@@ -10,8 +10,8 @@ const Mint = () => {
             <Header></Header>
             <div className="mint-page-wrapper">
                 <div className="card">
-                    <QuantitySelector quantity={ mintQuantity } setQuantity={ setMintQuantity }></QuantitySelector>
-                    <MintButton quantity={ mintQuantity }></MintButton>
+                    <p>AAA bbb cccc ddd eee</p>
+                    <MintButton changeMintQuantity={ setMintQuantity } quantity={ mintQuantity }></MintButton>
                 </div>
             </div>
             <footer>
@@ -23,3 +23,8 @@ const Mint = () => {
   };
   
   export default Mint;
+
+  /*
+    <QuantitySelector quantity={ mintQuantity } setQuantity={ setMintQuantity }></QuantitySelector>
+  */
+ 
