@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/roborobomintpage/static/css/main.959b1785.css",
-    "main.js": "/roborobomintpage/static/js/main.b4c944de.js",
+    "main.css": "/roborobomintpage/static/css/main.8b01cf26.css",
+    "main.js": "/roborobomintpage/static/js/main.faa552bb.js",
     "static/js/787.0e2c10fe.chunk.js": "/roborobomintpage/static/js/787.0e2c10fe.chunk.js",
     "static/media/0015.jpg": "/roborobomintpage/static/media/0015.95914204acd7a8d0d674.jpg",
     "static/media/ROBOROBO_LOGO.png": "/roborobomintpage/static/media/ROBOROBO_LOGO.e237dadeb0fe86839665.png",
     "static/media/logo.svg": "/roborobomintpage/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/roborobomintpage/index.html",
-    "main.959b1785.css.map": "/roborobomintpage/static/css/main.959b1785.css.map",
-    "main.b4c944de.js.map": "/roborobomintpage/static/js/main.b4c944de.js.map",
+    "main.8b01cf26.css.map": "/roborobomintpage/static/css/main.8b01cf26.css.map",
+    "main.faa552bb.js.map": "/roborobomintpage/static/js/main.faa552bb.js.map",
     "787.0e2c10fe.chunk.js.map": "/roborobomintpage/static/js/787.0e2c10fe.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.959b1785.css",
-    "static/js/main.b4c944de.js"
+    "static/css/main.8b01cf26.css",
+    "static/js/main.faa552bb.js"
   ]
 }
