@@ -20,7 +20,6 @@ const Mint = () => {
     });
 
     const setVh = () => {
-        console.log('teste');
         document.documentElement.style.setProperty('--vh', `${window.innerHeight}px`);
     }
 
