@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/roborobomintpage/static/css/main.45642608.css",
-    "main.js": "/roborobomintpage/static/js/main.3f26b059.js",
+    "main.js": "/roborobomintpage/static/js/main.5ea9dc48.js",
     "static/js/787.0e2c10fe.chunk.js": "/roborobomintpage/static/js/787.0e2c10fe.chunk.js",
     "static/media/0015.jpg": "/roborobomintpage/static/media/0015.95914204acd7a8d0d674.jpg",
     "static/media/ROBOROBO_LOGO.png": "/roborobomintpage/static/media/ROBOROBO_LOGO.e237dadeb0fe86839665.png",
     "index.html": "/roborobomintpage/index.html",
     "main.45642608.css.map": "/roborobomintpage/static/css/main.45642608.css.map",
-    "main.3f26b059.js.map": "/roborobomintpage/static/js/main.3f26b059.js.map",
+    "main.5ea9dc48.js.map": "/roborobomintpage/static/js/main.5ea9dc48.js.map",
     "787.0e2c10fe.chunk.js.map": "/roborobomintpage/static/js/787.0e2c10fe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.45642608.css",
-    "static/js/main.3f26b059.js"
+    "static/js/main.5ea9dc48.js"
   ]
 }
