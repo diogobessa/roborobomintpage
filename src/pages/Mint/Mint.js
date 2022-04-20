@@ -41,9 +41,9 @@ const Mint = () => {
                         <div className="robo-packs">
                             <span><FontAwesomeIcon className="color-gold" icon={faRobot} /><br/><span className="price">50 ₳</span></span>
                             <span>⚶</span>
-                            <span><FontAwesomeIcon className="color-cyan" icon={faRobot} /> <FontAwesomeIcon className="color-fuschia" icon={faRobot} /><br/><span className="price">100 ₳</span></span>
+                            <span><FontAwesomeIcon className="color-gold" icon={faRobot} /> <FontAwesomeIcon className="color-gold" icon={faRobot} /><br/><span className="price">100 ₳</span></span>
                             <span>⚶</span>
-                            <span><FontAwesomeIcon className="color-cyan" icon={faRobot} /><br/><FontAwesomeIcon className="color-gold" icon={faRobot} /> <FontAwesomeIcon className="color-fuschia" icon={faRobot} /><br/><span className="price">150 ₳</span></span>
+                            <span><FontAwesomeIcon className="color-gold" icon={faRobot} /><br/><FontAwesomeIcon className="color-gold" icon={faRobot} /> <FontAwesomeIcon className="color-gold" icon={faRobot} /><br/><span className="price">150 ₳</span></span>
                         </div>
                         <MintButton changeMintQuantity={ setMintQuantity } quantity={ mintQuantity }></MintButton>
                     </div>
